@@ -8,4 +8,4 @@
 
 ## Installation
 
-``git clone https://github.com/yns0x/S.C.L..git``
+``git clone https://github.com/yns0x/scl``
